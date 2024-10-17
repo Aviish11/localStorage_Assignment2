@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    background-color: rgb(255, 187, 84);  
+}
+
+button:hover{
+    background-color: beige;
+}
+
+p{
+    text-align: center;
+    color: #ffb41f;
+    font-weight: bold;
+    padding: 10px;
+   
+
+}
